@@ -1,0 +1,21 @@
+{
+    "name": "lovelace-theme",
+    "displayName": "Lovelace Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lovelace Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lovelace Theme-color-theme.json"
+            }
+        ]
+    }
+}
