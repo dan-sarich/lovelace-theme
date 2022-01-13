@@ -37,7 +37,7 @@
             {
                 "label": "Lovelace",
                 "uiTheme": "vs-dark",
-                "path": "./theme/lovelace.json"
+                "path": "./themes/lovelace.json"
             }
         ]
     }
