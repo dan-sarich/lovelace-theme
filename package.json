@@ -2,18 +2,18 @@
     "name": "lovelace-theme",
     "displayName": "Lovelace Theme",
     "description": "A VS Code theme based on Lovelace for iterm 2",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "DanSarich",
     "maintainers": [
-		"Dan Sarich <dsarich@gmail.com>"
-	],
+        "Dan Sarich <dsarich@gmail.com>"
+    ],
     "repository": {
-		"type": "git",
-		"url": "https://github.com/Dsarich33/lovelace-theme.git"
-	},
+        "type": "git",
+        "url": "https://github.com/Dsarich33/lovelace-theme.git"
+    },
     "bugs": {
-		"url": "https://github.com/Dsarich33/lovelace-theme/issues"
-	},
+        "url": "https://github.com/Dsarich33/lovelace-theme/issues"
+    },
     "keywords": [
         "lovelace",
         "theme",
@@ -23,9 +23,9 @@
     ],
     "icon": "icon.png",
     "galleryBanner": {
-		"color": "#3c4557",
-		"theme": "dark"
-	},
+        "color": "#3c4557",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
