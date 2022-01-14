@@ -20,7 +20,7 @@
     "dropdown.background": "#1D1F28",
     "dropdown.border": "#252833",
     "dropdown.foreground": "#FDFDFD",
-    "terminal.background": "#040404",
+    "terminal.background": "#1D1F28",
     "terminal.foreground": "#FDFDFD",
     "terminal.ansiBrightBlack": "#535BCF",
     "terminal.ansiBrightRed": "#F18098",
